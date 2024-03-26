@@ -20,7 +20,7 @@
 |시작 화면|목록 화면|
 
 -시스템 구성도 🎞️<br>
-Opencv의 다양한 클래스와 메서드를 활용하여 MFC GUI에서 각 기능 버튼을 통하여 이미지나 영상을 다양하게 변화시킬수 있습니다. 
+ Opencv의 다양한 클래스와 메서드를 활용하여 MFC GUI에서 각 기능 버튼을 통하여 이미지나 영상을 다양하게 변화시킬수 있습니다. 
 ![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/c982b53d-79f0-481b-a26f-52b9d9963d13)
 
 ##
