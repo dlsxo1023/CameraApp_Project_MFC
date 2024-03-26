@@ -15,13 +15,13 @@
 - 멤버: 팀 신동희(송인태, 김경태, 장동혁, 강유진)
 
 ## 프로그램 설명
+![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/be0d4580-5b66-4e31-872c-8c6d2b425e3d)
+![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/5939497c-c3db-4661-afbf-7ab2ad945cb2)
+
 |![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/a4686954-b015-4d51-bea4-0465ef85b1c1)|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/9d7447fb-d5bd-45c5-b563-50994a8e3f1c)|
 |:---:|:---:|
 |시작 화면|목록 화면|
 
-![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/dd593d85-9cd9-4f06-a405-bb985b4e1cbd)
-
-![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/c982b53d-79f0-481b-a26f-52b9d9963d13)
 
 ##
 
