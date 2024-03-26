@@ -1,4 +1,6 @@
+<div align="center">
 # 📷Camera App
+</div>
 
 ## 목차
   - [목표 및 개요](#목표-및-개요) 
