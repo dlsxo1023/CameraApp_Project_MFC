@@ -31,4 +31,9 @@
 |![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/d24cb4dc-c614-4734-b9f7-1d18258b679a)|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/a983a507-9713-42ba-a6dd-ca93b99d566b)|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/64a5b2b0-2955-4775-afe8-8c39f3fcca6a)|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/0bb62c63-8ac2-4a47-b575-af62fc488e2e)|
 |emboss|bilateralFilter|GaussianBlur|GaussianBlur|
 
+|노이즈 필터|부분 블러|
+|---|---|
+|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/a9cc22d7-c629-4314-8588-6551d63db8f6)|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/f2dc3e94-1055-4172-a229-e8f3b6b65f96)|
+|randn|blur|
+
 
