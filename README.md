@@ -29,6 +29,6 @@
 |진흙필터|양방향 필터|안개필터|샤프닝 필터|
 |---|---|---|---|
 |![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/d24cb4dc-c614-4734-b9f7-1d18258b679a)|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/a983a507-9713-42ba-a6dd-ca93b99d566b)|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/64a5b2b0-2955-4775-afe8-8c39f3fcca6a)|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/0bb62c63-8ac2-4a47-b575-af62fc488e2e)|
-
+|emboss|bilateralFilter|GaussianBlur|GaussianBlur|
 
 
