@@ -4,7 +4,7 @@
 
 ## 목차
   - [목표 및 개요](#목표-및-개요) 
-  - [GUI 설명](#게임-설명)
+  - [GUI 설명](#GRI-설명)
   - [구동 방식](#게임-플레이-방식)
 
 ## 목표 및 개요
@@ -13,8 +13,11 @@
 - 멤버: 팀 신동희(송인태, 김경태, 장동혁, 강유진)
 
 ![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/dd593d85-9cd9-4f06-a405-bb985b4e1cbd)
-![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/7d2c3eb3-da9c-49f8-a75e-9b72fba9b585)
 
+## GUI 설명
+|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/9a9e6695-e3b7-458d-aa00-dc16283e2c28)|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/9d7447fb-d5bd-45c5-b563-50994a8e3f1c)|
+|:---:|:---:|
+|시작 화면|목록 화면|
 
 #### 로딩창 구현 - 윈도우 MFC사용하여 구현 
 
