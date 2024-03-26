@@ -54,6 +54,7 @@
 
 
 - 밝기 기능
+
 |밝기|명암|
 |---|---|
 |![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/7032ad18-59ba-4363-a0e1-c3e0b88ae33d)![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/d0498a63-c641-41a9-8d1a-91ea3cba924e)|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/dabe67eb-0b9d-4e3d-b2ec-80078517053f)![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/91813163-eec2-4db1-beef-572e02b1a6cd)|
