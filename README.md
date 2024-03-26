@@ -36,7 +36,7 @@
 |색 추출|색 변환|채도 변환|
 |---|---|---|
 |![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/a526c71d-1c9a-45ef-8e12-3847b355a74c)|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/4e683a5d-3a83-459f-9cb0-71272aac970a)|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/bf3e7a96-19e0-4056-80ca-e88c7db2419e)|
-|emboss|bilateralFilter|GaussianBlur|
+|HBRUSH|HSV|HSV|
 
 
 
