@@ -66,7 +66,54 @@
 |---|---|---|---|
 |![KakaoTalk_20240327_044212513](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/15079c95-a265-491f-afee-f0186e015cc5)|![KakaoTalk_20240327_044211829](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/e8284599-cde1-4629-9a91-7ce8cc9ea860)|![KakaoTalk_20240327_044211162](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/a4e087b4-2871-4086-a72e-2df66f37430f)|![KakaoTalk_20240327_044210528](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/38cba7cf-2c73-4df3-ae13-cdc618ed3a19)|
 
+## 주요 함수
+- BitmapInfo💻<br>
 
+|파일 구조|설명|
+|---|---|
+|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/383f8bbb-af33-491a-8dd8-559efe1ba38c)|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/4e7fe94f-5cb6-403c-b0f8-02a133c3f359)|
+
+
+```c
+//#비트맵인포 BITMAP 정보 구조체 데이터 생성 
+void CMFCApplication1Dlg::CreateBitmapInfo(int w, int h, int bpp) {
+	if (m_pBitmapInfo != NULL) //기존 비트맵 정보 초기화 
+	{
+		delete m_pBitmapInfo;
+		m_pBitmapInfo = NULL; //기존 BITMAP 정보 삭제 
+	}
+
+	if (bpp == 8) //1채널 
+		m_pBitmapInfo = (BITMAPINFO*) new BYTE[sizeof(BITMAPINFO) + 256 * sizeof(RGBQUAD)];
+	else // 24(3채널) or 32bit(4채널)
+		m_pBitmapInfo = (BITMAPINFO*) new BYTE[sizeof(BITMAPINFO)];
+
+	m_pBitmapInfo->bmiHeader.biSize = sizeof(BITMAPINFOHEADER);//구조체에 필요한 바이트 수
+	m_pBitmapInfo->bmiHeader.biPlanes = 1;// 대상 디바이스의 평면 수를 지정합니다. 이 값은 1로 설정해야 합니다.
+	m_pBitmapInfo->bmiHeader.biBitCount = bpp;//픽셀당 비트 수(bpp)를 지정합니다. 압축되지 않은 형식의 경우 이 값은 픽셀당 평균 비트 수입니다.
+	m_pBitmapInfo->bmiHeader.biCompression = BI_RGB;//압축되지 않은 RGB.
+	m_pBitmapInfo->bmiHeader.biSizeImage = 0;//이미지의 크기(바이트)를 지정합니다.
+	m_pBitmapInfo->bmiHeader.biXPelsPerMeter = 0;//비트맵에 대한 대상 디바이스의 가로 해상도(미터당 픽셀)
+	m_pBitmapInfo->bmiHeader.biYPelsPerMeter = 0;//비트맵에 대한 대상 디바이스의 세로 해상도(미터당 픽셀)를 지정합니다.
+	m_pBitmapInfo->bmiHeader.biClrUsed = 0;//비트맵에서 실제로 사용되는 색 테이블의 색 인덱스 수를 지정합니다.
+	m_pBitmapInfo->bmiHeader.biClrImportant = 0;//비트맵을 표시하는 데 중요한 것으로 간주되는 색 인덱스의 수를 지정합니다.이 값이 0이면 모든 색이 중요합니다.
+	m_pBitmapInfo->bmiHeader.biWidth = w;
+	m_pBitmapInfo->bmiHeader.biHeight = -h;
+
+	if (bpp == 8)
+	{
+		for (int i = 0; i < 256; i++)
+		{
+			m_pBitmapInfo->bmiColors[i].rgbBlue = (BYTE)i;
+			m_pBitmapInfo->bmiColors[i].rgbGreen = (BYTE)i;
+			m_pBitmapInfo->bmiColors[i].rgbRed = (BYTE)i;
+			m_pBitmapInfo->bmiColors[i].rgbReserved = 0;
+		}
+	}
+
+	//음수는 원본이 왼쪽 위 모서리에 있는 하향식 DIB입니다.
+}
+```
 
 
 
