@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>📷Camera App</h1>
+<h1>📷Camera App</h1>
+휴대폰 어플 SNOW카메라에 대적하는 윈도우OS 기반 카메라 APP 다양한 사진 및 동영상 편집을 사용할수 있습니다.🍀 
 </div>
 
 ## 목차
