@@ -1,5 +1,11 @@
 # 📷Camera App
 
+## 목차
+  - [목표 및 개요](#개요) 
+  - [GUI 설명](#게임-설명)
+  - [구동 방식](#게임-플레이-방식)
+
+## 목표 및 개요
 ![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/dd593d85-9cd9-4f06-a405-bb985b4e1cbd)
 ![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/7d2c3eb3-da9c-49f8-a75e-9b72fba9b585)
 
