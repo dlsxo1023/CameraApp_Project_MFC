@@ -1,6 +1,8 @@
 # 📷Camera App
 
-#### 로딩창 구현 - C#윈폼을 사용하여 구현 
+![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/dd593d85-9cd9-4f06-a405-bb985b4e1cbd)
+
+#### 로딩창 구현 - 윈도우 MFC사용하여 구현 
 
 ![로딩창](images/로딩창.gif)
 
