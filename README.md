@@ -45,7 +45,7 @@
 |![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/1aea1d57-a826-4834-8ed8-99c488512201)![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/c15d023a-bea7-49e2-8be2-9518e241b808)|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/1b7a4715-69c5-438a-a612-c978b4760e98)![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/d6df8c25-ab66-455d-bb28-fa16a370097a)|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/93023c20-79dd-4d63-9475-c306732be0b6)![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/32f42d64-12cf-4534-900c-0f196a10921a)|
 |rotate|flip|resize|
 
--뷰티 기능
+- 뷰티 기능
 
 |합성 기능|눈 크기 조절|
 |---|---|
@@ -59,6 +59,10 @@
 |---|---|
 |![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/7032ad18-59ba-4363-a0e1-c3e0b88ae33d)![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/d0498a63-c641-41a9-8d1a-91ea3cba924e)|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/dabe67eb-0b9d-4e3d-b2ec-80078517053f)![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/91813163-eec2-4db1-beef-572e02b1a6cd)|
 |cvtColor|ycrcv|
+
+- 동영상에서 필터링
+|진흙|양방향|부분 블러|노이즈|
+|![KakaoTalk_20240327_044212513](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/15079c95-a265-491f-afee-f0186e015cc5)|![KakaoTalk_20240327_044211829](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/e8284599-cde1-4629-9a91-7ce8cc9ea860)|![KakaoTalk_20240327_044211162](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/a4e087b4-2871-4086-a72e-2df66f37430f)|![KakaoTalk_20240327_044210528](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/38cba7cf-2c73-4df3-ae13-cdc618ed3a19)|
 
 
 
