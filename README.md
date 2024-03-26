@@ -1,6 +1,8 @@
 # 📷Camera App
 
 ![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/dd593d85-9cd9-4f06-a405-bb985b4e1cbd)
+![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/7d2c3eb3-da9c-49f8-a75e-9b72fba9b585)
+
 
 #### 로딩창 구현 - 윈도우 MFC사용하여 구현 
 
