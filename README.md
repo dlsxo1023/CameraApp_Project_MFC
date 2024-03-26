@@ -43,6 +43,15 @@
 |시계/반시계 방향 회전|좌우 반전|크기조절|
 |---|---|---|
 |![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/1aea1d57-a826-4834-8ed8-99c488512201)![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/c15d023a-bea7-49e2-8be2-9518e241b808)|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/1b7a4715-69c5-438a-a612-c978b4760e98)![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/d6df8c25-ab66-455d-bb28-fa16a370097a)|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/93023c20-79dd-4d63-9475-c306732be0b6)![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/32f42d64-12cf-4534-900c-0f196a10921a)|
+|rotate|flip|resize|
+
+-뷰티 기능
+
+|합성 기능|눈 크기 조절|
+|---|---|
+|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/4617b8e8-5e40-4d85-ab47-663987dd49f2)|![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/a1bce18c-ab8a-4115-b12c-f1e5f01eddb0)|
+|Haar Cascade|Haar Cascade|
+
 
 
 
