@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>📷Camera App</h2>
+  <h>📷Camera App</h>
 </div>
 
 ## 목차
